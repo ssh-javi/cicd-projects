@@ -1,0 +1,9 @@
+[submodule "project-01"]
+	path = project-01
+	url = git@github.com-personal:ssh-javi/ocp-fullstack-gitops-delivery.git
+[submodule "project-02"]
+	path = project-02
+	url = https://github.com/ssh-javi/02-reto-cicd.git
+[submodule "project-03"]
+	path = project-03
+	url = https://github.com/ssh-javi/03-reto-cicd.git
