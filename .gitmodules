@@ -7,3 +7,9 @@
 [submodule "project-03"]
 	path = project-03
 	url = https://github.com/ssh-javi/03-reto-cicd.git
+[submodule "04-cicd-reto"]
+	path = 04-cicd-reto
+	url = https://github.com/ssh-javi/04-cicd-reto.git
+[submodule "project-04"]
+	path = project-04
+	url = https://github.com/ssh-javi/04-cicd-reto.git
