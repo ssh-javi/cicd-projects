@@ -13,3 +13,6 @@
 [submodule "project-04"]
 	path = project-04
 	url = https://github.com/ssh-javi/04-cicd-reto.git
+[submodule "project-05"]
+	path = project-05
+	url = https://github.com/ssh-javi/05-reto-cicd.git
